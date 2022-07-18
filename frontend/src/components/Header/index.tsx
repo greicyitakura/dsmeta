@@ -9,9 +9,9 @@ function Header() {
         <h1>DSMeta da Greicy</h1>
         <p>
           Projeto desenvolvido na semana Spring React da DevSuperior
-          <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
-          <a href="https://github.com/greicyitakura/dsmeta">Github do projeto</a>
-          <a href="https://www.linkedin.com/in/greicy-itakura">LinkedIn</a>
+          <a href="https://www.instagram.com/devsuperior.ig"> @devsuperior.ig</a> 
+          <a href="https://github.com/greicyitakura/dsmeta"> - Github do projeto - </a>
+          <a href="https://www.linkedin.com/in/greicy-itakura"> @LinkedIn</a>
         </p>
       </div>
     </header>
