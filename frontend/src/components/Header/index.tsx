@@ -6,10 +6,12 @@ function Header() {
     <header>
       <div className="dsmeta-logo-container">
         <img src={logo} alt="DSMeta" />
-        <h1>DSMeta</h1>
+        <h1>DSMeta da Greicy</h1>
         <p>
-          Desenvolvido por
+          Projeto desenvolvido na semana Spring React da DevSuperior
           <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+          <a href="https://github.com/greicyitakura/dsmeta">Github do projeto</a>
+          <a href="https://www.linkedin.com/in/greicy-itakura">LinkedIn</a>
         </p>
       </div>
     </header>
