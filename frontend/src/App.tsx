@@ -1,6 +1,7 @@
 import { ToastContainer } from "react-toastify";
 import Header from "./components/Header";
 import SalesCard from "./components/SalesCard";
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <main>
         <section id="sales">
           <div className="dsmeta-container">
-            <SalesCard></SalesCard>
+            <SalesCard />
           </div>
         </section>
       </main>
